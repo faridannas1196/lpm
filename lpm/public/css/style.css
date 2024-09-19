@@ -1,0 +1,21 @@
+#sidebar {
+  width: 100%;
+  background-color: #f8f9fa; /* Sesuaikan warna latar sesuai keinginan */
+}
+
+#sidebar ul.nav {
+  margin-left: 20px;
+}
+
+#sidebar .nav-link {
+  padding: 10px;
+}
+
+#sidebar a.nav-link.ms-auto {
+  margin-left: auto;
+  font-weight: bold; /* Sesuaikan style jika diperlukan */
+}
+
+#sidebar h4 {
+  margin-right: 30px;
+}
